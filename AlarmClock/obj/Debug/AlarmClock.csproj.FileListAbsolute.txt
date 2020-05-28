@@ -1,0 +1,10 @@
+C:\Documents and Settings\nissimzo\Desktop\AlarmClock\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+C:\Documents and Settings\nissimzo\Desktop\AlarmClock\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+C:\Documents and Settings\nissimzo\Desktop\AlarmClock\AlarmClock\AlarmClock\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\nissimzo\Desktop\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Form1.resources
+C:\Documents and Settings\nissimzo\Desktop\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.Properties.Resources.resources
+C:\Documents and Settings\nissimzo\Desktop\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csproj.GenerateResource.Cache
+C:\Documents and Settings\nissimzo\Desktop\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+C:\Documents and Settings\nissimzo\Desktop\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
+D:\Projects\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+D:\Projects\AlarmClock\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb
